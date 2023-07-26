@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and Html | CSS 
 - 🌱 I’m currently learning Python Django + React
 - 💞️ I’m looking to collaborate on freelance projects
-- 📫 You can reach me through email (thasniabbas76@gmail.com) or whatsapp (7902802605)
+- 📫 You can reach me through thasniabbas76@gmail.com
 
 <!---
 thasniabbas76/thasniabbas76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
