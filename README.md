@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @thasniabbas76
-- 👀 I’m interested in coding and Html | CSS 
+- 👋 Hi, I’m Thasni Abbas
+- 👀 I’m interested in coding and Html | CSS | JavaScript | Bootstrap
 - 🌱 I’m currently learning Python Django + React
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 You can reach me through thasniabbas76@gmail.com
