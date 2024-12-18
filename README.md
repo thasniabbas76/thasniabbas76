@@ -4,7 +4,7 @@
 💡 I’m eager to work with others on exciting projects! Whether it’s creating Django applications, solving backend challenges, or contributing to open source, let’s make something amazing together.
 
 📫 **How to Reach Me**:  
-- **Email:** Thasniabbas76@gmail.com 
+- **Email:** thasniabbas76@gmail.com 
 - **LinkedIn:** www.linkedin.com/in/thasniabbas
 
 💻 **Tech Stack**
