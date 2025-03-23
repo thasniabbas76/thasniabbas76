@@ -6,6 +6,7 @@
 📫 **How to Reach Me**:  
 - **Email:** thasniabbas76@gmail.com 
 - **LinkedIn:** www.linkedin.com/in/thasniabbas
+- **Portfolio:** https://thasniabbas.pythonanywhere.com/
 
 💻 **Tech Stack**
 
