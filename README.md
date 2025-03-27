@@ -1,6 +1,6 @@
 👋 Hi! Thasni here.
 
-🌟 I’m an **aspiring Python developer** with a passion for building web applications using **Django**. 
+I’m an **aspiring Python developer**🌟  with a passion for building web applications using **Django**. 
 💡 I’m eager to work with others on exciting projects! Whether it’s creating Django applications, solving backend challenges, or contributing to open source, let’s make something amazing together.
 
 📫 **How to Reach Me**:  
